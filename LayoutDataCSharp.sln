@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LayoutDataCSharp", "LayoutDataCSharp\LayoutDataCSharp.csproj", "{FB7A8B12-A979-4C9E-8332-85BF55766571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7A8B12-A979-4C9E-8332-85BF55766571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7A8B12-A979-4C9E-8332-85BF55766571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7A8B12-A979-4C9E-8332-85BF55766571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7A8B12-A979-4C9E-8332-85BF55766571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6066D11F-8AEC-4BAB-86A3-5992D0C924D3}
+	EndGlobalSection
+EndGlobal
